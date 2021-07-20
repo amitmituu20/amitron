@@ -1,1 +1,1 @@
-web: gunicorn amitron.wsgi --log-file -
+web: gunicorn amsmarketing.wsgi --log-file -
